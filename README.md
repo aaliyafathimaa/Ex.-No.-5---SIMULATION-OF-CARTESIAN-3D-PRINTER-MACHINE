@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 25/5/26
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,10 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1462" height="1029" alt="image" src="https://github.com/user-attachments/assets/cf508a1b-10d3-49a6-b25e-b6bd799a8a31" />
 
-### Name: 
-### Register Number:
+### Name: AALIYA FATHIMA M
+### Register Number: 212223230001
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
